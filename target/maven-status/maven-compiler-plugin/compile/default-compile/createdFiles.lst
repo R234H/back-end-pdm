@@ -1,0 +1,15 @@
+com\server\autenticacao\repository\user\UserRepository.class
+com\server\autenticacao\filters\CorsFilter.class
+com\server\autenticacao\resources\AuthResource.class
+com\server\autenticacao\dtos\ResponseDTO.class
+com\server\autenticacao\utils\HibernateUtils.class
+com\server\autenticacao\dtos\RegisterUserDTO.class
+com\server\autenticacao\dtos\TokenDTO.class
+com\server\autenticacao\filters\AuthenticationFilter.class
+com\server\autenticacao\filters\ResponseFormatFilter.class
+com\server\autenticacao\repository\user\UserRepositoryImpl.class
+com\server\autenticacao\model\User.class
+com\server\autenticacao\services\UserService.class
+com\server\autenticacao\config\RestApplicationConfig.class
+com\server\autenticacao\dtos\LoginDTO.class
+com\server\autenticacao\security\TokenSecurity.class

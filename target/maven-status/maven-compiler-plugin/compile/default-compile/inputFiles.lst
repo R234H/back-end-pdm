@@ -1,0 +1,15 @@
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\filters\ResponseFormatFilter.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\repository\user\UserRepository.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\model\User.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\dtos\RegisterUserDTO.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\dtos\TokenDTO.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\dtos\ResponseDTO.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\filters\CorsFilter.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\security\TokenSecurity.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\config\RestApplicationConfig.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\resources\AuthResource.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\utils\HibernateUtils.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\filters\AuthenticationFilter.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\dtos\LoginDTO.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\repository\user\UserRepositoryImpl.java
+C:\Users\sinde\Desktop\autenticacao\src\main\java\com\server\autenticacao\services\UserService.java
